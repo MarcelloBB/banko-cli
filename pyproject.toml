@@ -1,0 +1,12 @@
+[project]
+name = "banko"
+version = "1.0.0"
+description = "Simulador de fila de banco via CLI para o Projeto Integrador"
+requires-python = ">=3.10"
+dependencies = [
+    "click",
+    "tabulate"
+]
+
+[project.scripts]
+banko = "banko.cli:cli"
