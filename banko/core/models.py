@@ -7,3 +7,5 @@ class Cliente:
     nome: str
     preferencial: bool = False
     chegada: datetime = None
+    operacao: str = "Não informado"
+    tempo_espera: float | None = None
