@@ -98,7 +98,3 @@ python -m banko
 ## Contribuições
 
 Pull requests são bem-vindos. Abra uma issue antes de trabalhar em mudanças maiores para alinharmos o escopo.
-
-## Licença
-
-Escolha uma licença apropriada para o seu projeto (por exemplo, MIT). Este repositório não contém um arquivo de licença explícito por padrão.
